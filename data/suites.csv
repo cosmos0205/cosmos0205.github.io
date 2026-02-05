@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"启动LEDSetting应用，点击探测按钮，验证探测功能执行成功","37","点击探测按钮验证设备探测","case","2026-02-05","passed","2026-02-05","TestLEDSetting","test_main","",""
